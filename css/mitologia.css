@@ -2,3 +2,16 @@ header{
 	font-style: ancient greek, times new roman;
 	font-size: 20px;
 	}
+
+header{
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin: 0;
+	background-color: #CA6F1E;
+}
+
+body{
+	margin: 0;
+	background-color: #F0B27A;
+}
