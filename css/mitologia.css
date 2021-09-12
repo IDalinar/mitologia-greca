@@ -21,6 +21,8 @@ nav{
 	background-color: #873600;
 	padding: 0.15rem;
 	margin: 0;
+	text-align: center;
+}
 }
 
 nav a{
@@ -31,6 +33,7 @@ nav a{
 nav li{
 	display: inline;
 	margin-right: 1rem;
+	text-align: center;
 }
 
 main{
