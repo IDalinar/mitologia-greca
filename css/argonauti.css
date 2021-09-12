@@ -12,10 +12,16 @@ header{
 	background-color: #CA6F1E;
 }
 
-header img{
-	border-radius: 100px;
-    width: 150px;
-    border: 6px solid #873600;
+header li{
+	display: inline;
+	margin-right: 1rem;
+	text-align: center;
+}
+
+header li img{
+	border-radius: 80px;
+    width: 90px;
+    border: 4px solid #873600;
 }
 
 body{
