@@ -1,0 +1,61 @@
+html{
+	scroll-behavior: smooth;
+}
+
+header{
+	font-style: ancient greek, times new roman;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin: 0;
+	background-color: #CA6F1E;
+}
+
+body{
+	margin: 0;
+	background-color: #F0B27A;
+}
+
+nav{
+	background-color: #873600;
+	padding: 0.15rem;
+	margin: 0;
+}
+
+nav a{
+	color: black;
+	text-decoration: none;
+}
+
+nav li{
+	display: inline;
+	margin-right: 1rem;
+}
+
+main{
+	max-width: 800px;
+	margin-left: auto;
+}
+
+body a{
+	color: black;
+	text-decoration: none;
+}
+
+footer{
+	background-color: #873600;
+	padding: 0rem;
+	margin: 0;
+	text-align: right;
+}
+
+footer a{
+	color: black;
+	text-decoration: none;
+}
+
+footer li{
+	display: inline;
+	margin-right: 0.5rem;
+}
