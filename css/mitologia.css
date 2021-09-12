@@ -12,3 +12,7 @@ body{
 	margin: 0;
 	background-color: #F0B27A;
 }
+
+main{
+	max-width: 800px;
+}
