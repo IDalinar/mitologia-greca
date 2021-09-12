@@ -13,6 +13,7 @@ header{
 }
 
 body{
+	display: block;
 	margin: 0;
 	background-color: #F0B27A;
 }
@@ -35,6 +36,8 @@ nav li{
 
 main{
 	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
 }
 
 body a{
