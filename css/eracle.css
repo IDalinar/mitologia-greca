@@ -7,9 +7,17 @@ header{
 	font-size: 20px;
 	text-align: center;
 	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-bottom: 17px;
 	margin: 0;
 	background-color: #CA6F1E;
+}
+
+header h1{
+	margin-bottom: 0;
+}
+header h3{
+	margin-top: 0;
+	font-size: smaller;
 }
 
 header li{
