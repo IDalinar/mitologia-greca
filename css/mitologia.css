@@ -13,6 +13,16 @@ body{
 	background-color: #F0B27A;
 }
 
+nav{
+	background-color: #873600;
+	color: white;
+	padding: 0.15rem;
+	margin: 0;
+}
+nav li{
+	display: inline;
+	margin-right: 0.5rem;
+}
 main{
 	max-width: 800px;
 }
