@@ -35,6 +35,7 @@ nav li{
 
 main{
 	max-width: 800px;
+	margin-left: auto;
 }
 
 body a{
