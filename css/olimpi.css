@@ -16,7 +16,8 @@ body{
 	display: block;
 	margin: 0;
 	background-color: #F0B27A;
-	background-image: url("img_tempio-grande.jpeg");
+	background-image: url(img/tempio-grande.jpeg);
+	background-size: cover;
 }
 
 nav{
