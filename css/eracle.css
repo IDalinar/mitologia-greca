@@ -62,7 +62,7 @@ main{
 	padding: 0 20px;
 }
 
-p figure img{
+main p figure img{
 	max-width: 800px;
 	border-radius: 80px;
     width: 70px;
