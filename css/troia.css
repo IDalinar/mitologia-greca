@@ -12,6 +12,12 @@ header{
 	background-color: #CA6F1E;
 }
 
+header img{
+	border-radius: 100px;
+    width: 150px;
+    border: 6px solid #873600;
+}
+
 body{
 	margin: 0;
 	background-color: #F0B27A;
