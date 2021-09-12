@@ -15,6 +15,7 @@ header{
 body{
 	margin: 0;
 	background-color: #F0B27A;
+	display: block;
 }
 
 nav{
@@ -22,7 +23,6 @@ nav{
 	padding: 0.15rem;
 	margin: 0;
 	text-align: center;
-}
 }
 
 nav a{
@@ -47,10 +47,29 @@ body a{
 	text-decoration: none;
 }
 
+table{
+	width: 800px;
+	margin: 0 auto;
+}
+
+thead{
+	background-color: #CA6F1E;
+}
+
+tbody{
+	background-color: #EB984E;
+}
+
+th, td{
+	padding: 0.5rem 1rem;
+	text-align: left;
+	vertical-align: middle;
+}
+
 footer{
 	background-color: #873600;
-	padding: 0rem;
-	margin: 0;
+	margin: 0 auto;
+	padding: 0 20px;
 	text-align: right;
 }
 
