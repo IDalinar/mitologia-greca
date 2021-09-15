@@ -28,6 +28,7 @@ body{
 	display: block;
 	margin: 0;
 	background-color: #F0B27A;
+	text-align: justify;
 }
 
 nav{
@@ -48,6 +49,12 @@ nav li{
 	text-align: center;
 }
 
+form{
+	text-align: right;
+	background-color: #F0B27A;
+	opacity: 50%;
+}
+
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -59,8 +66,13 @@ body a{
 	text-decoration: none;
 }
 
+dt{
+	font-size: 18px;
+}
+
 table{
 	border-spacing: 1px;
+	margin: 0 auto;
 }
 
 thead{
