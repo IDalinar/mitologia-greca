@@ -49,12 +49,6 @@ nav li{
 	text-align: center;
 }
 
-form{
-	text-align: right;
-	background-color: #F0B27A;
-	opacity: 50%;
-}
-
 main{
 	max-width: 800px;
 	margin: 0 auto;
@@ -106,3 +100,4 @@ footer li{
 	margin: 0 auto;
 	padding: 0 20px;
 }
+
